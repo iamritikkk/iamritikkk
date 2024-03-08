@@ -10,4 +10,4 @@ At the moment, I'm delving into the realms of backend and network engineering.
 
 ## My Essence
 
-🐼 I'm all about taking it easy, writing some code, maybe geeking out over Linux kernel patches, and simply enjoying life with a cup of tea. 🍵
+🐼 I'm all about taking it easy, writing some code, maybe geeking out over Linux kernel patches, and simply enjoying life with a cup of coffee. 🍵
